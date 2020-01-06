@@ -7,7 +7,7 @@ Clicking that icon "disables" the listing item, keeping it in the browser memory
 
 ## Installation
 1. Make sure you have [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) installed in your Chrome browser
-2. Install by clicking [here](https://github.com/erosnicolau/autoscout24.com/raw/master/autoscout24.com.user.js)
+2. Install by clicking [here](https://github.com/erosnicolau/autoscout.com/raw/master/autoscout.com.user.js)
 
 ## Usage
 Once installed, feel free to click the little monkey faces displayed on the listing ads (or individual ad pages), to hide / unhide that ad.
