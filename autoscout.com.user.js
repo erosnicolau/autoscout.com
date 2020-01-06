@@ -1,7 +1,3 @@
-(function() {(function(context, fapply, console) {with (context) {(function(module) {"use strict";try {
-fapply(module, context, [,,context.CDATA,context.uneval,context.define,context.module,context.exports,context.GM,context.GM_info]);} catch (e) {if (e.message && e.stack) {console.error("ERROR: Execution of script 'autoscout24.com' failed! " + e.message);console.log(e.stack.replace(/(\\(eval at )?<anonymous>[: ]?)|([\s.]*at Object.tms_[\s\S.]*)/g, ""));} else {console.error(e);}}
-})(function (context,fapply,CDATA,uneval,define,module,exports,GM,GM_info) {
-
 // ==UserScript==
 // @name         autoscout24.com
 // @namespace    https://www.autoscout24.com/
@@ -97,7 +93,3 @@ fapply(module, context, [,,context.CDATA,context.uneval,context.define,context.m
     else style.appendChild(document.createTextNode(customCSS))
 
 })();
-
-})}})(this.context, this.fapply, this.console);
-//# sourceURL=chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/userscript.html?id=1192f23d-63b2-4959-b29d-f9cec0796845
-}).apply(window["__u__16066670.646382244_"])
